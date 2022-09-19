@@ -9,7 +9,6 @@ work = True
 c = conn.cursor()
 
 c.execute("""CREATE TABLE IF NOT EXISTS contact(
-            id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
             first text,
             last text,
             email text,
