@@ -107,4 +107,4 @@ while work == True:
     #       ID -> Um Einträge zu löschen
     #       ID -> Um Einträge zu aktualisieren
     #       ID Funktionalität hinzufügen
-    #       Test Kommentar
+   
